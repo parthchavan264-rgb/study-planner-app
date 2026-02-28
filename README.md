@@ -1,20 +1,27 @@
 # Study Planner App 📚
 
-**A beginner-level Python project** helping students organize their daily study plans.
+**A professional Python CLI project** to organize daily study plans.
 
 ## Features
-- Add subjects & study time
+- Add, Edit & Delete subjects
 - View daily study plan
-- Simple CLI interface
-- Helps in learning time management
+- Persistent storage (JSON)
+- Input validation for better user experience
 
 ## Tech Used
 - Python
+- JSON module for data storage
+- File handling
 
 ## Purpose
-- Learning Python & problem-solving
-- Building real-world projects
-- Developing a habit of consistent coding
+- Learn Python & problem-solving
+- Build real-world projects
+- Practice software design & data management
 
 ## Author
 Parth Chavan
+
+## Future Upgrades
+- GUI version using Tkinter
+- Web version using Flask / Django
+- Notification reminders for study schedules
